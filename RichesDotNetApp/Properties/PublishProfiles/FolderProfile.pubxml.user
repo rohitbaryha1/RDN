@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Rohit\MFAppSec\Repos\Riches DotNet eDAST Project\riches.net\RichesDotNetApp\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2022-01-05T06:44:53.1765110Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="404_New.aspx">
+      <publishTime>12/10/2021 16:52:45</publishTime>
+    </File>
+    <File Include="About.aspx">
+      <publishTime>12/07/2021 20:16:29</publishTime>
+    </File>
+    <File Include="Account/Acquired/default.txt">
+      <publishTime>12/07/2021 20:15:11</publishTime>
+    </File>
+    <File Include="Account/Acquired/first_riches_invest.txt">
+      <publishTime>12/07/2021 20:15:11</publishTime>
+    </File>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>12/14/2021 14:49:13</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>12/14/2021 14:49:21</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>12/16/2021 11:29:47</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>12/14/2021 14:54:16</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>12/14/2021 19:22:27</publishTime>
+    </File>
+    <File Include="Admin/Admin.aspx">
+      <publishTime>12/10/2021 18:23:25</publishTime>
+    </File>
+    <File Include="Admin/AdminMaster.Master">
+      <publishTime>12/10/2021 16:50:07</publishTime>
+    </File>
+    <File Include="Admin/Newsletter.aspx">
+      <publishTime>12/14/2021 15:52:09</publishTime>
+    </File>
+    <File Include="Admin/web.config">
+      <publishTime>12/07/2021 20:15:11</publishTime>
+    </File>
+    <File Include="Anonymous/AnonymousMasterPage.master">
+      <publishTime>12/07/2021 20:15:11</publishTime>
+    </File>
+    <File Include="Anonymous/CareerDetails.aspx">
+      <publishTime>12/14/2021 15:46:27</publishTime>
+    </File>
+    <File Include="Anonymous/CareerDetails.aspx.cs.old">
+      <publishTime>12/07/2021 20:15:11</publishTime>
+    </File>
+    <File Include="Anonymous/Careers.aspx">
+      <publishTime>12/07/2021 20:15:11</publishTime>
+    </File>
+    <File Include="Anonymous/FindLocations.aspx">
+      <publishTime>12/14/2021 15:23:09</publishTime>
+    </File>
+    <File Include="Anonymous/Privacy.aspx">
+      <publishTime>12/14/2021 16:35:37</publishTime>
+    </File>
+    <File Include="Anonymous/PromoCode.aspx">
+      <publishTime>12/14/2021 16:14:27</publishTime>
+    </File>
+    <File Include="App_Bin/System.Data.SqlServerCe.dll">
+      <publishTime>01/19/2021 09:18:04</publishTime>
+    </File>
+    <File Include="App_Bin/System.Data.SqlServerCe.Entity/System.Data.SqlServerCe.Entity.dll">
+      <publishTime>01/19/2021 09:18:04</publishTime>
+    </File>
+    <File Include="App_Data/ASPNETCE.sdf">
+      <publishTime>12/16/2021 12:35:51</publishTime>
+    </File>
+    <File Include="App_Data/RichesCE.sdf">
+      <publishTime>12/16/2021 12:35:52</publishTime>
+    </File>
+    <File Include="Backup.aspx">
+      <publishTime>12/07/2021 20:16:29</publishTime>
+    </File>
+    <File Include="bin/amd64/Microsoft.VC90.CRT/Microsoft.VC90.CRT.manifest">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/amd64/Microsoft.VC90.CRT/msvcr90.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/amd64/Microsoft.VC90.CRT/README_ENU.txt">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/amd64/sqlceca40.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/amd64/sqlcecompact40.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/amd64/sqlceer40EN.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/amd64/sqlceme40.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/amd64/sqlceqp40.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/amd64/sqlcese40.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>04/16/2020 20:38:42</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>04/16/2020 20:38:46</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServerCompact.dll">
+      <publishTime>04/17/2020 02:08:56</publishTime>
+    </File>
+    <File Include="bin/RichesDotNetApp.dll">
+      <publishTime>01/05/2022 12:14:48</publishTime>
+    </File>
+    <File Include="bin/RichesDotNetApp.pdb">
+      <publishTime>01/05/2022 12:14:48</publishTime>
+    </File>
+    <File Include="bin/System.Data.SqlServerCe.dll">
+      <publishTime>01/19/2021 09:18:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>11/22/2013 15:51:56</publishTime>
+    </File>
+    <File Include="bin/x86/Microsoft.VC90.CRT/Microsoft.VC90.CRT.manifest">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/x86/Microsoft.VC90.CRT/msvcr90.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/x86/Microsoft.VC90.CRT/README_ENU.txt">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/x86/sqlceca40.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/x86/sqlcecompact40.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/x86/sqlceer40EN.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/x86/sqlceme40.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/x86/sqlceqp40.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="bin/x86/sqlcese40.dll">
+      <publishTime>12/15/2021 13:45:14</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>12/07/2021 20:16:29</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/14/2021 21:00:34</publishTime>
+    </File>
+    <File Include="Images/accounts_bg_home.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/al_ehl_house_gen.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/bg.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/bg2.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/btnDeleteMessage.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/btnDeleteMessages.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/btnReply.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/btnReply.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/btnSend.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/btn_go_white.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/btn_search_white.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/calendar.png">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/favicon.ico">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/header.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/horizontall.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/horizontal_linexl.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/ira_wtprimary_0208.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/lock.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/login_background.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/menubar_bg.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/product_list_bg_bottom2.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/product_list_shadow.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/promo1.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/promo2.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/promo3.jpg">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/rwi_50.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/rwi_75.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/search_bg.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/signon_bg.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/small-ad1.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/small-ad2.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/small-ad3.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Images/tiny-ad1.gif">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>12/14/2021 17:20:13</publishTime>
+    </File>
+    <File Include="Styles/details.css">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Styles/rwi-1.css">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Styles/rwi-2.css">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Users/AccountDetails.aspx">
+      <publishTime>12/14/2021 20:25:54</publishTime>
+    </File>
+    <File Include="Users/AccountSummary.aspx">
+      <publishTime>12/14/2021 20:24:50</publishTime>
+    </File>
+    <File Include="Users/AdminControlPage.aspx">
+      <publishTime>12/14/2021 15:37:24</publishTime>
+    </File>
+    <File Include="Users/Check.aspx">
+      <publishTime>12/14/2021 15:17:23</publishTime>
+    </File>
+    <File Include="Users/Messages.aspx">
+      <publishTime>12/15/2021 15:26:48</publishTime>
+    </File>
+    <File Include="Users/ProfilePicture.aspx">
+      <publishTime>12/14/2021 15:55:32</publishTime>
+    </File>
+    <File Include="Users/Transfer.aspx">
+      <publishTime>12/15/2021 15:26:46</publishTime>
+    </File>
+    <File Include="Users/UsersMaster.Master">
+      <publishTime>12/14/2021 16:40:27</publishTime>
+    </File>
+    <File Include="Users/ViewMessage.aspx">
+      <publishTime>12/15/2021 15:26:45</publishTime>
+    </File>
+    <File Include="Users/web.config">
+      <publishTime>12/07/2021 20:15:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/05/2022 12:14:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
